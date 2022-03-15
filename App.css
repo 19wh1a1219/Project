@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+#root, body, html {
+  height : 100%;
+  margin: 0;
+}
+
+body {
+  background: url(./assets/bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
